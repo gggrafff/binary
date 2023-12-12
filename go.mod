@@ -1,4 +1,4 @@
-module github.com/kelindar/binary
+module github.com/gggrafff/binary
 
 go 1.17
 
